@@ -39,6 +39,17 @@ header {
     justify-content: center;
 }
 
+@media screen and (max-width: 408px) {
+    
+    header {
+        font-size: 2em;
+    }
+
+    .day {
+        font-size: 1.3em;
+    }
+}
+
 body {
     margin: 0;
 }
