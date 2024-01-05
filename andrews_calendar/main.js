@@ -2,7 +2,7 @@ const daysLeft = 330;
 
 let mainWrapperElement = document.getElementById('main_wrapper');
 
-for (let i = 1; i < daysLeft + 1; i++) {
+for (let i = daysLeft; i > 0; i--) {
 
     let dayElement = document.createElement('div');
 
