@@ -1,4 +1,4 @@
-const daysLeft = 330;
+const daysLeft = 384;
 
 let mainWrapperElement = document.getElementById('main_wrapper');
 
